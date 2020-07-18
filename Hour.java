@@ -1,5 +1,5 @@
 package org.maktab37.HW5;
-
+// Second edition
 public class SandyHour {
     int number;
     int[][] array;
